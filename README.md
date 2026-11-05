@@ -34,7 +34,7 @@ cmake --build .
 
 在test/build/中会生成test.exe 文件，执行此文件，会在本级目录下生成一个json文件，将这个文件拖入到[Perfetto UI](https://ui.perfetto.dev/)中，会有以下结果，说明编译没有问题
 
-![](.\png\image-20261106024116859.png)
+![](png\image-20261106024116859.png)
 
 ### 正确使用
 
